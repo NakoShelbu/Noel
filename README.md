@@ -1,2 +1,3 @@
 # noel
-Sea - Développement https://discord.gg/TpCRbH5rdB
+Sea - Développement 
+https://discord.gg/TpCRbH5rdB
